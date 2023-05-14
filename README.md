@@ -2,7 +2,7 @@
 ![Jsplix's GitHub stats](https://github-readme-stats.vercel.app/api?Jsplix=anuraghazra&show_icons=true&theme=transparent)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akdlzhf2008)](https://solved.ac/akdlzhf2008/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=akdlzhf2008&theme=warm)
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=akdlzhf2008&theme=warm"/>
 <!--
 **Jsplix/Jsplix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
