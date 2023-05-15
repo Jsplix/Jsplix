@@ -1,4 +1,4 @@
-### Welcome JSplix's GitHub 👋
+### Welcome Jsplix's GitHub 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akdlzhf2008)](https://solved.ac/akdlzhf2008/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=akdlzhf2008&theme=warm)
 <!--
