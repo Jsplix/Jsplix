@@ -1,18 +1,29 @@
-### Welcome Jsplix's GitHub 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akdlzhf2008)](https://solved.ac/akdlzhf2008/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=akdlzhf2008&theme=warm)
-<!--![Jsplix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsplix&show_icons=true&theme=holi)-->
-<!--
-**Jsplix/Jsplix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 안녕하세요. 진경석입니다. 👋
 
-Here are some ideas to get you started:
+### Tech Stack
+| Category                 | 주로 사용해요.                                                                                                                                                                                          | 경험해본적 있어요.                                                                                                                                                                     |
+|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Language** | <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  |
+| **Framework** | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> | <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> |
+| **Database** | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> | |
+| **Deployment** | <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"> <img src="https://img.shields.io/badge/amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> | |
+| **Communication** | <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"> | <img src="https://img.shields.io/badge/googlemeet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white"> |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+### Activity
+- 영남대학교 컴퓨터학부 정보통신공학전공 이동통신연구실 학부연구생
+- 2024 멋쟁이사자처럼 대학동아리 12th | Back-End Track
+- 기업연계멘토링 프로젝트 (LIG Nex1)
+
+---
+### Activity
+- Eye Tracking을 활용한 문해력 향상 및 독해 보조 서비스
+- 갱년기 증상 클리닉 서비스 (Holing)
+- 시험성적서 변환 프로그램 (PDF → Excel) - 기업연계멘토링 프로젝트
+- 편리한 기능을 제공하는 웹 기반의 터미널 서비스 ([Husk](https://husk.kr)) - 진행중
+ 
+---
+### Contact
+- Email: dev.jkjin112@gmail.com
+- Discord: jin_gyeongseok
