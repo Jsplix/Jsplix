@@ -15,7 +15,7 @@
 - 기업연계멘토링 프로젝트 (LIG Nex1)
 
 ---
-### Activity
+### Project
 - Eye Tracking을 활용한 문해력 향상 및 독해 보조 서비스
 - 갱년기 증상 클리닉 서비스 (Holing)
 - 시험성적서 변환 프로그램 (PDF → Excel) - 기업연계멘토링 프로젝트
