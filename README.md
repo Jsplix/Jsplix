@@ -24,5 +24,4 @@
 ---
 ### Contact
 - Email: dev.jkjin112@gmail.com
-- Discord: jin_gyeongseok
 - BOJ & solved_ac: akdlzhf2008
