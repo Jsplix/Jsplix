@@ -13,7 +13,7 @@
 - 영남대학교 컴퓨터학부 정보통신공학전공 이동통신연구실 학부연구생
 - 2024 멋쟁이사자처럼 대학동아리 12th | Back-End Track
 - 기업연계멘토링 프로젝트 (OOO OOOO)
-- SSAFY 14th Java 코딩 트랙
+- SSAFY 14th 코딩 트랙 JAVA 전공
 
 ---
 ### Project
